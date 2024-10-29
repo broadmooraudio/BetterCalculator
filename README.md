@@ -10,6 +10,9 @@ This project as of right now aims to only serve the author experience with githu
 
 ## Features
 
+![image](https://github.com/user-attachments/assets/56eed79d-9a69-4d74-9b6a-f1644ddff384)
+
+
 ### Current Features (v0.0.1)
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clean, intuitive user interface
