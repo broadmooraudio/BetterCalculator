@@ -34,10 +34,11 @@ BetterCalculator is an open-source calculator application that aims to provide a
 
 Simply launch the application and use it as you would any standard calculator. Current version supports basic arithmetic operations through only GUI buttons.
 
+<!--
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+-->
 ## Acknowledgments
 
 - Inspired by limitations in the Windows default calculator AND this specific visual bug...
