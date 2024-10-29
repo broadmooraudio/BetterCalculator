@@ -55,5 +55,6 @@ Current version: 0.01 (Alpha)
 This project is in active development. Please report any bugs or feature requests through the issue tracker.
 
 ## Contact
-
+<!--
 Project Link: [https://github.com/yourusername/BetterCalculator](https://github.com/broadmoorstudio/BetterCalculator)
+-->
