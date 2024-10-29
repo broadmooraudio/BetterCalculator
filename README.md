@@ -6,6 +6,8 @@ A modern, enhanced calculator application designed to extend beyond the limitati
 
 BetterCalculator is an open-source calculator application that aims to provide additional functionality while maintaining a clean, user-friendly interface. While currently in its early stages, the project roadmap includes implementing advanced features beyond basic arithmetic operations.
 
+This project as of right now aims to only serve the author experience with github.
+
 ## Features
 
 ### Current Features (v0.0.1)
