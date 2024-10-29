@@ -31,7 +31,7 @@ This project as of right now aims to only serve the author experience with githu
 - .NET Framework (version TBD)
 
 ### Installation
-1. Download the latest release from the [releases page](link-to-releases)
+1. Download the latest release from the [releases page](https://github.com/broadmooraudio/BetterCalculator/releases/tag/MAJOR)
 2. Run the installer
 3. Launch BetterCalculator from your Start menu
 
