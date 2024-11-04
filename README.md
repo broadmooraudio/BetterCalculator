@@ -57,10 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Current version: 0.01 (Alpha)
 This project is in active development. Please report any bugs or feature requests through the issue tracker.
 
-## Contact
-Email: broadmooraudio@gmail.com
-
 Project Link: [https://github.com/yourusername/BetterCalculator](https://github.com/broadmooraudio/BetterCalculator)
-
-I am currently planning to start college in the fall of 2024 for computer science.
-https://www.paypal.com/donate/?business=JSHX7HKYBKD9Q&no_recurring=0&currency_code=USD
